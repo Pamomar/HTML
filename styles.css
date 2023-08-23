@@ -1,0 +1,56 @@
+
+.corps{
+
+    background: black;
+  
+  }
+.navbar.navbar {
+	color:  darkgoldenrod;
+	font-family: roboto;
+    margin-left: 15%;
+    margin-top: 5xp;
+}
+
+
+.elementnavbar1 {
+     margin-top: 10px;
+     margin-right: 50px;
+  }
+
+p  {
+    font-size: 2em;
+    color: darkgoldenrod;
+    font-family: bold;
+    text-align: center;
+ }
+ .videopart
+ {
+    text-align: center;
+ }
+video
+{
+    border: 5px solid  darkgoldenrod;
+    border-radius: 14px;
+
+ }
+ .imagepart
+ {
+    text-align: center;
+ }
+ img  {
+    border: 5px solid  darkgoldenrod;
+    border-radius: 14px;
+    padding: auto;
+    margin-top: 2px;
+    margin-right: 10px;
+
+}
+h5
+{
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: black;
+    font-size:1em ;
+    font-family: bold italic;
+    
+ }
